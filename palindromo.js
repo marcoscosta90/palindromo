@@ -1,4 +1,4 @@
-const string = 'marcos';
+const string = 'did';
 
 const palindromo = (inString) => {
   inString = inString.toLowerCase();
